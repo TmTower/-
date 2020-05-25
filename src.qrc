@@ -1,7 +1,0 @@
-<RCC>
-    <qresource prefix="/new/prefix1">
-        <file>imagines/basa.jpg</file>
-        <file>imagines/bg.jpg</file>
-        <file>imagines/dron.jpg</file>
-    </qresource>
-</RCC>
